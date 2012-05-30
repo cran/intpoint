@@ -1,0 +1,3 @@
+interior_point	Solves linear programming problems using the interior point method
+solve2dlp	Solves graphically a two-dimensional linear programming problem
+random_problem	Generates a random linear programming problem and solves it
